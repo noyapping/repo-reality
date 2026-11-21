@@ -1,0 +1,28 @@
+{
+  "name": "repo-reality",
+  "owner": {
+    "name": "noyapping"
+  },
+  "metadata": {
+    "description": "Marketplace for the repo-reality skill, which reports what a code repository implements, with every claim cited to file:line."
+  },
+  "plugins": [
+    {
+      "name": "repo-reality",
+      "source": "./",
+      "description": "Reports what a code repository implements at one pinned commit. Every claim is cited to file:line and labeled, README claims are checked against code, and a separate subagent re-verifies each citation.",
+      "version": "1.0.0",
+      "author": {
+        "name": "noyapping"
+      },
+      "homepage": "https://github.com/noyapping/repo-reality",
+      "license": "MIT",
+      "keywords": [
+        "code-review",
+        "audit",
+        "repository",
+        "documentation"
+      ]
+    }
+  ]
+}

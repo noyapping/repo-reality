@@ -1,0 +1,12 @@
+{
+  "name": "repo-reality",
+  "version": "1.0.0",
+  "description": "Reports what a code repository implements at one pinned commit. Every claim is cited to file:line and labeled, README claims are checked against code, and a separate subagent re-verifies each citation.",
+  "author": {
+    "name": "noyapping"
+  },
+  "homepage": "https://github.com/noyapping/repo-reality",
+  "repository": "https://github.com/noyapping/repo-reality",
+  "license": "MIT",
+  "keywords": ["code-review", "audit", "repository", "documentation"]
+}
