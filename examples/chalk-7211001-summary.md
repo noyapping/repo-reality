@@ -15,6 +15,6 @@
 **3. No network or file code.** A whole-`source/` search found 0 matches for file, network or program-launch code.
 *A shop with no back door.*
 
-**README:** ❌ 1 unsupported ("Clean and focused" is a judgment) · ✅ Matched, with limits: 37 supported, 11 partly supported · ❔ 7 need a run to judge; 2 rest on a failed check
+**README:** ❌ 1 unsupported ("Clean and focused" is a judgment) · ✅ Matched, with limits: 38 supported, 12 partly supported (2 rest on a failed check) · ❔ 7 need a run to judge
 **Safety:** The whole-checkout hidden-text scan found 1 long-line hit, an image file with no text. It found 0 invisible characters and 0 `<!--` comments. No instructions aimed at an AI were found. The report records no secrets scan.
 Proof: [`chalk-7211001.md`](chalk-7211001.md).
